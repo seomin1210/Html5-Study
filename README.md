@@ -3,5 +3,5 @@
 대학에서 수강중인 웹프로그래밍에 대해 정리한 것
 
 ## 1. 1주차
-태그 - <pre><html></html></pre> 등등 (앞에는 여는 태그, 뒤에는 닫는 태그이고 닫을때 앞에다 / 를 붙인다.)<br/>
-속성 - <pre><font color="red"></pre> (이때 font는 태그, color는 속성이다.)
+태그 - <pre><code><html></html></code></pre> 등등 (앞에는 여는 태그, 뒤에는 닫는 태그이고 닫을때 앞에다 / 를 붙인다.)<br/>
+속성 - <pre><code><font color="red"></code></pre> (이때 font는 태그, color는 속성이다.)
