@@ -12,5 +12,5 @@
 ```<b> or <strong>``` <b>굵게</b><br/>
 ```<br>, <br/>, <BR>, <BR/>``` 줄바꿈<br/>
 ```<font>``` 글자 변경<br/>
-```<img src="URL">``` 이미지 삽입
+```<img src="URL">``` 이미지 삽입<br/>
 ```<a href="URL">``` 해당 링크로 이동
