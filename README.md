@@ -9,7 +9,7 @@
 ```<head>``` 머릿말<br/>
 ```<title>``` 웹페이지의 제목<br/>
 ```<body>``` 웹페이지의 내용<br/>
-```<b> or <strong>``` 굵게<br/>
+```<b> or <strong>``` <b>굵게</b><br/>
 ```<br>, <br/>, <BR>, <BR/>``` 줄바꿈<br/>
 ```<font>``` 글자 변경<br/>
 ```<img src="URL">``` 이미지 삽입
