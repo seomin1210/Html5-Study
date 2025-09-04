@@ -56,6 +56,9 @@
 ```<i>``` <i>이탤릭채 글자 적용 태그 (italic)</i><br/>
 ```<small>``` 글자 작게 만드는 태그<br/>
 ```<sub>``` 아래 첨자 요소 태그<sub>ex</sub><br/>
+```<sup>``` 윗 첨자 요소 태그<sup>ex</sup><br/>
+```<ins>``` <ins>밑줄 태그</ins><br/>
+```<del>``` 취소선 태그 <del>ex</del><br/>
 
 ### 목록
 ```<ol>``` 순서가 있는 목록 태그 (Order List)<br/>
