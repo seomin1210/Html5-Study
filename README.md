@@ -16,27 +16,27 @@
 ```<a href="URL">``` 해당 링크로 이동
 
 > ### Font의 속성
-> 1. Color
+> 1. Color<br/>
 >    글자의 색을 변경하는 속성. Red, Blue 등 색의 이름을 사용하거나, #000000 같은 색상코드를 사용   
-> 2. Size
+> 2. Size<br/>
 >    글자의 크기를 변경하는 속성.
-> 3. Face
+> 3. Face<br/>
 >    글자의 폰트를 변경하는 속성.
 
 > Img의 속성
-> 1. src
+> 1. src<br/>
 >    이미지의 소스를 넣는다. (링크)
-> 2. width
->    이미지의 가로 길이
+> 2. width<br/>
+>    이미지의 가로 길이<br/>
 >    뒤에다가 단위 설정가능 Ex) px
-> 4. height
->    이미지의 세로 길이
+> 4. height<br/>
+>    이미지의 세로 길이<br/>
 >    뒤에다가 단위 설정가능 Ex) px
-> 5. title
+> 5. title<br/>
 >    이미지의 타이틀
-> 6. alt
+> 6. alt<br/>
 >    이미지의 설명
 
 > ### a href의 속성
-> 1. target
+> 1. target<br/>
 >    blank - 새로운 빈 창으로 연다
