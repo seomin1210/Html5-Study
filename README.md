@@ -85,21 +85,24 @@
 ## 3. 3주차
 ### 미디어 태그
 ```<audio>```사운드 태그<br/>
-```<source>```<br/>
-```<video>```<br/>
+```<source>```audio나 video처럼 닫는 태그가 있고 src 소스 주소가 필요한 태그때 사용 가능<br/>
+```<video>```영상 태그<br/>
 
 > ### Audio의 속성
 > 1. src="Link"<br/>
 >    사운드의 주소
 > 2. preload=""<br/>
->    
+>    asdf
 > 3. autoplay<br/>
->    
+>    asdf
 > 4. loop<br/>
->
+>    asdf
 
-> ### Video의 속성
->
+> ### Source의 속성
+> 1. src<br/>
+>    asdf
+> 2. type<br/>
+>    asdf
 
 ### 입력양식 태그
 ```<form>```입력 양식의 시작 태그<br/>
@@ -109,7 +112,7 @@
 > 1. text<br/>
 >    텍스트로 입력받는다
 > 2. submit<br/>
->    제출 버튼?
+>    입력한 것을 제출하는 버튼 생성
 > 3. password<br/>
 >    비밀번호를 입력받는다 ex)●●●●●●
 > 4. file<br/>
@@ -119,11 +122,11 @@
 > 6. radio<br/>
 >    체크박스 생성 동그란 형태 ex) ○
 > 7. hidden<br/>
->    보이지 않는?
+>    보이지 않는 양식
 > 8. button<br/>
->    버튼
+>    버튼 양식
 > 9. reset<br/>
->    리셋
+>    입력한 것들을 초기화
 > 10. image<br/>
 >    이미지<br/>
 >    src 이미지 경로 필요함
