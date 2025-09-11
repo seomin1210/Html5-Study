@@ -91,16 +91,39 @@
 > ### Audio의 속성
 > 1. src="Link"<br/>
 >    사운드의 주소
-> 2. preload=""
+> 2. preload=""<br/>
 >    
-> 3. autoplay
+> 3. autoplay<br/>
 >    
-> 4. loop
+> 4. loop<br/>
 >
 
 > ### Video의 속성
 >
 
 ### 입력양식 태그
-```<form>```<br/>
-```<input>```<br/>
+```<form>```입력 양식의 시작 태그<br/>
+```<input>```입력 방식을 설정하는 태그<br/>
+
+> ### Input의 속성
+> 1. text<br/>
+>    텍스트로 입력받는다
+> 2. submit<br/>
+>    제출 버튼?
+> 3. password<br/>
+>    비밀번호를 입력받는다 ex)●●●●●●
+> 4. file<br/>
+>    파일 제출
+> 5. checkbox<br/>
+>    체크박스 생성 네모난 형태 ex) □
+> 6. radio<br/>
+>    체크박스 생성 동그란 형태 ex) ○
+> 7. hidden<br/>
+>    보이지 않는?
+> 8. button<br/>
+>    버튼
+> 9. reset<br/>
+>    리셋
+> 10. image<br/>
+>    이미지<br/>
+>    src 이미지 경로 필요함
