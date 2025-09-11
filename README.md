@@ -16,32 +16,32 @@
 ```<a>``` 눌렀을때 이동, a 태그 사이에 글자 or 이미지를 넣어서 클릭할 개체를 넣어야 한다.<br/>
 
 > ### Font의 속성
-> 1. Color<br/>
+> 1. Color=""<br/>
 >    글자의 색을 변경하는 속성.<br/>
 >    Red, Blue 등 색의 이름을 사용하거나, #000000 같은 색상코드를 사용   
-> 2. Size<br/>
+> 2. Size="N"<br/>
 >    글자의 크기를 변경하는 속성.
-> 3. Face<br/>
+> 3. Face=""<br/>
 >    글자의 폰트를 변경하는 속성.
 
-> Img의 속성
-> 1. src<br/>
+> ### Img의 속성
+> 1. src="Link"<br/>
 >    이미지의 소스를 넣는다. (링크)
-> 2. width<br/>
+> 2. width="N"<br/>
 >    이미지의 가로 길이<br/>
 >    뒤에다가 단위 설정가능 Ex) px
-> 4. height<br/>
+> 4. height="N"<br/>
 >    이미지의 세로 길이<br/>
 >    뒤에다가 단위 설정가능 Ex) px
-> 5. title<br/>
+> 5. title=""<br/>
 >    이미지의 타이틀
-> 6. alt<br/>
->    이미지의 설명
+> 6. alt=""<br/>
+>    대체 텍스트트
 
 > ### a의 속성
-> 1. href<br/>
+> 1. href="Link"<br/>
 >    이동할 주소(링크)
-> 2. target<br/>
+> 2. target=""<br/>
 >    blank - 새로운 빈 창으로 연다
 <br/>
 <hr/>
@@ -72,11 +72,35 @@
 ```<th>``` 테이블 머리글 태그 (head)<br/>
 
 > ### table의 속성
-> 1. border<br/>
+> 1. border="N"<br/>
 >    외곽쪽 테두리. 숫자, 단위는 px<br/>
 
 > ### 테이블 행, 열의 속성
-> 1. colspan<br/>
+> 1. colspan="N"<br/>
 >    열 병합
-> 2. rowspan<br/>
+> 2. rowspan="N"<br/>
 >    행 병합
+<hr/>
+
+## 3. 3주차
+### 미디어 태그
+```<audio>```사운드 태그<br/>
+```<source>```<br/>
+```<video>```<br/>
+
+> ### Audio의 속성
+> 1. src="Link"<br/>
+>    사운드의 주소
+> 2. preload=""
+>    
+> 3. autoplay
+>    
+> 4. loop
+>
+
+> ### Video의 속성
+>
+
+### 입력양식 태그
+```<form>```<br/>
+```<input>```<br/>
