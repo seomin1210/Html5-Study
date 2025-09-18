@@ -161,6 +161,10 @@
 >     메일 입력 (type안에)
 > 12. id<br/>
 >     Label을 사용할때 사용
+> 13. name<br/>
+>     asdf
+> 14. value<br/>
+>     asdf
 
 > ### Select의 속성
 > 1. multiply="multiply"<br/>
@@ -175,3 +179,7 @@
 ```<section>``` 내용 단위로 분할<br/>
 ```<article>``` 본문과 독립적인 컨텐츠 영역-내용을 자세히 나눌때 사용<br/>
 ```<footer>``` 꼬리말-하단구조<br/>
+
+## 4. 4주차
+
+
